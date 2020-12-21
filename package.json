@@ -1,0 +1,23 @@
+{
+  "name": "jspractic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaDeveloperWeb/JSpractic.git"
+  },
+  "keywords": [],
+  "author": "Nikita Rusakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaDeveloperWeb/JSpractic/issues"
+  },
+  "homepage": "https://github.com/NikitaDeveloperWeb/JSpractic#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

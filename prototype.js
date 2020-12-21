@@ -94,4 +94,4 @@ Number.prototype.toBigInt = function () {
 };
 
 const number = 42;
-console.log(number.toBigInt());
+// console.log(number.toBigInt());
